@@ -1,0 +1,20 @@
+{
+  "name": "cse310-javascript-task-manager",
+  "version": "1.0.0",
+  "description": "Console task manager for CSE 310 JavaScript module",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "demo": "node src/app.js --demo"
+  },
+  "keywords": [
+    "cse310",
+    "javascript",
+    "task-manager"
+  ],
+  "author": "Olakunle Obademi",
+  "license": "MIT",
+  "dependencies": {
+    "picocolors": "^1.1.1"
+  }
+}

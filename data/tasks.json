@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "title": "Record CSE 310 module video",
+    "status": "open",
+    "priority": "high",
+    "minutes": 60,
+    "subtasks": [
+      {
+        "title": "Show app running",
+        "minutes": 15,
+        "subtasks": []
+      },
+      {
+        "title": "Walk through JavaScript code",
+        "minutes": 30,
+        "subtasks": [
+          {
+            "title": "Explain recursion",
+            "minutes": 10,
+            "subtasks": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Submit Module #1 document",
+    "status": "open",
+    "priority": "medium",
+    "minutes": 30,
+    "subtasks": []
+  }
+]
