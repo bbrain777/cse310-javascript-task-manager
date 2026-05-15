@@ -6,7 +6,7 @@ This software is a console-based task manager written in JavaScript for the CSE 
 
 The program lets a user add, update, delete, complete, search, and list tasks. It also stores tasks in a JSON file so task data remains available after the program closes.
 
-[Software Demo Video](https://youtu.be/REPLACE_WITH_VIDEO_LINK)
+[Software Demo Video](https://youtu.be/CFHrzUj_0lg)
 
 ## Development Environment
 
